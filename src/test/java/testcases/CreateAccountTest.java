@@ -2,7 +2,7 @@ package testcases;
 
 import java.util.Hashtable;
 
-import org.testng.Assert;
+
 import org.testng.annotations.Test;
 
 import base.Page;
@@ -22,7 +22,7 @@ public class CreateAccountTest {
 		AddAccounts aac= acp.goToCreateAccountsPage();
 		aac.createAccounts(data.get("accountname"));
 		
-		Assert.fail("CreateAccountTest forcefully failed");
+		//Assert.fail("CreateAccountTest forcefully failed");
 		
 		
 	}

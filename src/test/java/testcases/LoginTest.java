@@ -1,8 +1,6 @@
 package testcases;
 
 import java.util.Hashtable;
-
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pages.HomePage;
@@ -20,7 +18,7 @@ public class LoginTest extends BaseTest {
 		login.doLogin(data.get("username"), data.get("password"));
 		// Password : Selenium@123
 		
-		Assert.fail("LoginTest Forcefully failed");
+		//Assert.fail("LoginTest Forcefully failed");
 
 	}
 }
