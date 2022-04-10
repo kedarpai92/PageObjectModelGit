@@ -1,0 +1,33 @@
+09/04/2022 12:55:50 devpinoyLogger Config Property Path Input
+09/04/2022 12:55:50 devpinoyLogger Config Property Loaded
+09/04/2022 12:55:50 devpinoyLogger OR Property Path Input
+09/04/2022 12:55:50 devpinoyLogger OR Property Loaded
+09/04/2022 12:55:55 devpinoyLogger Chrome Browser Launched
+09/04/2022 12:56:00 devpinoyLogger URL Opened. URL is: https://www.zoho.com
+09/04/2022 12:56:00 devpinoyLogger Window Maximised
+09/04/2022 12:56:00 devpinoyLogger Implicit wait added for 10 seconds from Config properties file
+09/04/2022 12:56:01 devpinoyLogger SheetName is  :  test_suite
+09/04/2022 12:56:01 devpinoyLogger 2
+09/04/2022 12:56:01 devpinoyLogger 3
+09/04/2022 12:56:01 devpinoyLogger Clicking on an Element : goToLogin_CSS
+09/04/2022 12:56:01 devpinoyLogger Typing in an Element : loginID_CSS entered value as : kedarpai92@yahoo.co.in
+09/04/2022 12:56:01 devpinoyLogger Clicking on an Element : loginBtnForID_CSS
+09/04/2022 12:56:01 devpinoyLogger Typing in an Element : password_CSS entered value as : Selenium@123
+09/04/2022 12:56:01 devpinoyLogger Clicking on an Element : loginBtnForPass_CSS
+09/04/2022 12:56:02 freemarker.cache Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09/04/2022 12:56:02 freemarker.cache TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09/04/2022 12:56:02 freemarker.cache TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09/04/2022 12:56:02 freemarker.cache TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09/04/2022 12:56:02 freemarker.cache Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/kpi1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09/04/2022 12:56:02 devpinoyLogger SheetName is  :  test_suite
+09/04/2022 12:56:02 devpinoyLogger 2
+09/04/2022 12:56:02 devpinoyLogger 1
+09/04/2022 12:56:16 devpinoyLogger Clicking on an Element : goToCRMPage_CSS
+09/04/2022 12:56:17 devpinoyLogger Clicking on an Element : accounttabbtn_CSS
+09/04/2022 12:56:18 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
+09/04/2022 12:56:20 devpinoyLogger Typing in an Element : addaccountnamefield_CSS entered value as : Kedar
+09/04/2022 12:56:20 freemarker.cache Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09/04/2022 12:56:20 freemarker.cache TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09/04/2022 12:56:20 freemarker.cache TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09/04/2022 12:56:20 freemarker.cache TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09/04/2022 12:56:20 freemarker.cache Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/kpi1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
