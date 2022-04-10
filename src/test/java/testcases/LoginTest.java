@@ -19,6 +19,6 @@ public class LoginTest extends BaseTest {
 		// Password : Selenium@123
 		
 		//Assert.fail("LoginTest Forcefully failed");
-
+		// Text to check whether egit server is updated with the latest code
 	}
 }
